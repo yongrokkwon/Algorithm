@@ -1,5 +1,6 @@
 package baekjoon.bronze.three
 
+// https://www.acmicpc.net/problem/2588
 fun main() {
     val first = readln().toInt()
     val second = readln()
